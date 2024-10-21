@@ -1,0 +1,49 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+
+# Ignore IDE config files
+.idea/
+.vscode/
+
+# Database files
+*.sqlite3
+*.db
+
+# Ignore Python bytecode and compiled files
+*.py[cod]
+*.so
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Ignore AWS credentials (example)
+.aws/

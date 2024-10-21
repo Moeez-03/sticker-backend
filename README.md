@@ -34,7 +34,7 @@ This project provides the backend infrastructure for managing WhatsApp stickers 
 ## Installation
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/HussnainC/WhatsAppStickerMaker.git
 cd WhatsAppStickerMaker
 
